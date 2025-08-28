@@ -1,0 +1,21 @@
+{
+  "unlock_mode": "key",
+  "unlock_key": "F12",
+  "safe_key": "Y",
+  "unlock_passcode": "123456",
+  "camera_enabled": true,
+  "audio_enabled": true,
+  "audio_seconds": 5,
+  "screenshot_enabled": true,
+  "email_enabled": true,
+  "mail_attach_media": true,
+  "cooldown_seconds_between_captures": 30,
+  "show_consent_banner": true,
+  "mouse_triggers_enabled": true,
+  "security_mode_enabled": true,
+  "disable_task_manager": false,
+  "block_system_keys": true,
+  "ui_theme": "dark",
+  "show_animations": true,
+  "include_system_info": true
+}
